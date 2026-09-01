@@ -1,0 +1,38 @@
+{
+  "capturedAt": "2026-09-01T20:45:18.000Z",
+  "indexedThroughBlock": 52012075,
+  "nextBlock": 52012076,
+  "source": "https://api.long.xyz/graphql Asset via public GraphiQL",
+  "chainId": 4663,
+  "venueKey": "long-robinhood",
+  "count": 12758,
+  "rowSchema": [
+    "tokenAddress",
+    "name",
+    "symbol",
+    "numeraireAddress",
+    "numeraireSymbol",
+    "creator",
+    "blockNumber",
+    "timestamp",
+    "transactionHash"
+  ],
+  "parts": [
+    "part-000.json",
+    "part-001.json",
+    "part-002.json",
+    "part-003.json",
+    "part-004.json",
+    "part-005.json",
+    "part-006.json",
+    "part-007.json",
+    "part-008.json",
+    "part-009.json",
+    "part-010.json",
+    "part-011.json",
+    "part-012.json",
+    "part-013.json",
+    "part-014.json",
+    "part-015.json"
+  ]
+}

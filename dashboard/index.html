@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#07120e" />
+    <meta
+      name="description"
+      content="A transparent, on-chain view of every LONG launch on Robinhood Chain."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="LONG Observatory — Launch Tracker" />
+    <meta property="og:description" content="Every launch. Nothing assumed." />
+    <meta property="og:url" content="https://snobistisch.github.io/long-launch-tracker/" />
+    <meta property="og:image" content="https://snobistisch.github.io/long-launch-tracker/og.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="LONG Observatory — Launch Tracker" />
+    <meta name="twitter:description" content="Every launch. Nothing assumed." />
+    <meta name="twitter:image" content="https://snobistisch.github.io/long-launch-tracker/og.png" />
+    <title>LONG Observatory — Launch Tracker</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <div class="ambient ambient-one"></div>
+    <div class="ambient ambient-two"></div>
+    <header class="site-header shell">
+      <a class="brand" href="#top" aria-label="LONG Observatory home">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span>LONG <b>OBSERVATORY</b></span>
+      </a>
+      <div class="network-pill"><span></span> Robinhood Chain · 4663</div>
+      <a class="github-link" href="https://github.com/snobistisch/long-launch-tracker">View source ↗</a>
+    </header>
+
+    <main id="top" class="shell">
+      <section class="hero">
+        <div class="eyebrow">ON-CHAIN LAUNCH INTELLIGENCE</div>
+        <h1>Every launch.<br /><em>Nothing assumed.</em></h1>
+        <p>
+          A ground-truth ledger of LONG assets, their stock-token numeraires, creators,
+          pools and multiplier-adjusted USD quotes.
+        </p>
+        <div class="freshness" id="freshness">Loading verified chain data…</div>
+      </section>
+
+      <section class="metrics" aria-label="Tracker summary">
+        <article><span>Total launches</span><strong id="totalLaunches">—</strong><small>verified events</small></article>
+        <article><span>Stock numeraires</span><strong id="numeraireCount">—</strong><small>quote assets</small></article>
+        <article><span>Venues</span><strong id="venueCount">—</strong><small>venue ≠ chain</small></article>
+        <article><span>Indexed through</span><strong id="indexedBlock">—</strong><small>block number</small></article>
+      </section>
+
+      <section class="ledger" aria-labelledby="ledgerTitle">
+        <div class="ledger-heading">
+          <div>
+            <div class="eyebrow">VERIFIED LEDGER</div>
+            <h2 id="ledgerTitle">Launches</h2>
+          </div>
+          <div class="controls">
+            <label class="search-field">
+              <span class="sr-only">Search launches</span>
+              <input id="search" type="search" placeholder="Search token, ticker or address" />
+              <kbd>/</kbd>
+            </label>
+            <label>
+              <span class="sr-only">Filter by numeraire</span>
+              <select id="numeraireFilter"><option value="">All numeraires</option></select>
+            </label>
+            <label>
+              <span class="sr-only">Sort launches</span>
+              <select id="sort">
+                <option value="newest">Newest first</option>
+                <option value="oldest">Oldest first</option>
+                <option value="token">Token A–Z</option>
+              </select>
+            </label>
+          </div>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Launch</th><th>Numeraire</th><th>USD quote</th><th>Venue / chain</th><th>Block</th><th></th>
+              </tr>
+            </thead>
+            <tbody id="launchRows"></tbody>
+          </table>
+          <div class="empty" id="emptyState" hidden>No launches match these filters.</div>
+        </div>
+        <div class="ledger-footer">
+          <span id="resultCount">—</span>
+          <div class="pagination" aria-label="Launch pages">
+            <button id="previousPage" type="button">← Previous</button>
+            <span id="pageIndicator">—</span>
+            <button id="nextPage" type="button">Next →</button>
+          </div>
+          <span>Source: LONG GraphQL + launcher events</span>
+        </div>
+      </section>
+
+      <section class="method">
+        <div><span>01</span><h3>Discover</h3><p>Exact launcher address plus exact <code>LaunchCreated</code> topic.</p></div>
+        <div><span>02</span><h3>Verify</h3><p>Every asset is checked against Airlock’s on-chain asset data.</p></div>
+        <div><span>03</span><h3>Price</h3><p>Robinhood quotes are adjusted with each token’s current multiplier.</p></div>
+      </section>
+    </main>
+
+    <dialog id="detailDialog">
+      <button class="dialog-close" id="closeDialog" aria-label="Close details">×</button>
+      <div id="dialogContent"></div>
+    </dialog>
+
+    <footer class="shell">
+      <span>LONG Observatory</span>
+      <span>Read-only · Open source · No wallet required</span>
+    </footer>
+  </body>
+</html>

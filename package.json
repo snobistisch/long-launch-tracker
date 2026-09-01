@@ -1,0 +1,15 @@
+{
+  "name": "long-launch-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "tracker": "node --experimental-strip-types src/cli.ts",
+    "dashboard:dev": "node --experimental-strip-types scripts/serve-dashboard.ts",
+    "dashboard:update": "node --experimental-strip-types scripts/update-dashboard.ts",
+    "test": "node --experimental-strip-types --test test/*.test.ts"
+  },
+  "engines": {
+    "node": ">=22.6"
+  }
+}
