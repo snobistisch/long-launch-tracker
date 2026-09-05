@@ -1,874 +1,874 @@
 {
   "meta": {
-    "generatedAt": "2026-09-04T21:51:37.155Z",
+    "generatedAt": "2026-09-05T00:03:53.170Z",
     "indexedThroughBlock": 52022075,
     "nextBlock": 52022076,
     "source": "LONG GraphQL backfill + Robinhood Chain RPC + Robinhood /rhj"
   },
   "quotes": {
     "0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea": {
-      "rawBidUsd": "147.87",
-      "rawAskUsd": "147.95",
+      "rawBidUsd": "147.86",
+      "rawAskUsd": "155",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "147.87000000",
-      "adjustedAskUsd": "147.95000000",
-      "adjustedMidUsd": "147.91000000",
-      "generatedAt": "2026-09-04T21:49:54.575561874Z"
+      "adjustedBidUsd": "147.86000000",
+      "adjustedAskUsd": "155.00000000",
+      "adjustedMidUsd": "151.43000000",
+      "generatedAt": "2026-09-05T00:02:44.005440389Z"
     },
     "0xad25ac6c84d497db898fa1e8387bf6af3532a1c4": {
-      "rawBidUsd": "113.15",
-      "rawAskUsd": "113.2",
+      "rawBidUsd": "113.1",
+      "rawAskUsd": "113.18",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "113.15000000",
-      "adjustedAskUsd": "113.20000000",
-      "adjustedMidUsd": "113.17500000",
-      "generatedAt": "2026-09-04T21:49:53.665466241Z"
+      "adjustedBidUsd": "113.10000000",
+      "adjustedAskUsd": "113.18000000",
+      "adjustedMidUsd": "113.14000000",
+      "generatedAt": "2026-09-05T00:02:47.543962105Z"
     },
     "0x86923f96303d656e4aa86d9d42d1e57ad2023fdc": {
-      "rawBidUsd": "476.46",
-      "rawAskUsd": "476.71",
+      "rawBidUsd": "476.2",
+      "rawAskUsd": "476.5",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "476.46000000",
-      "adjustedAskUsd": "476.71000000",
-      "adjustedMidUsd": "476.58500000",
-      "generatedAt": "2026-09-04T21:49:50.432065774Z"
+      "adjustedBidUsd": "476.20000000",
+      "adjustedAskUsd": "476.50000000",
+      "adjustedMidUsd": "476.35000000",
+      "generatedAt": "2026-09-05T00:02:47.979319803Z"
     },
     "0xd5f3879160bc7c32ebb4dc785f8a4f505888de68": {
-      "rawBidUsd": "717.91",
-      "rawAskUsd": "718",
+      "rawBidUsd": "717.5",
+      "rawAskUsd": "718.44",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "717.91000000",
-      "adjustedAskUsd": "718.00000000",
-      "adjustedMidUsd": "717.95500000",
-      "generatedAt": "2026-09-04T21:50:01.624638944Z"
+      "adjustedBidUsd": "717.50000000",
+      "adjustedAskUsd": "718.44000000",
+      "adjustedMidUsd": "717.97000000",
+      "generatedAt": "2026-09-05T00:02:49.361212881Z"
     },
     "0x12f190a9f9d7d37a250758b26824b97ce941bf54": {
-      "rawBidUsd": "258.3",
-      "rawAskUsd": "258.5",
+      "rawBidUsd": "258.25",
+      "rawAskUsd": "258.3",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "258.30000000",
-      "adjustedAskUsd": "258.50000000",
-      "adjustedMidUsd": "258.40000000",
-      "generatedAt": "2026-09-04T21:50:00.656071199Z"
+      "adjustedBidUsd": "258.25000000",
+      "adjustedAskUsd": "258.30000000",
+      "adjustedMidUsd": "258.27500000",
+      "generatedAt": "2026-09-05T00:02:42.095183454Z"
     },
     "0xdf0992e440dd0be65bd8439b609d6d4366bf1cb5": {
-      "rawBidUsd": "101.5",
-      "rawAskUsd": "101.61",
+      "rawBidUsd": "101.36",
+      "rawAskUsd": "135",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "101.50000000",
-      "adjustedAskUsd": "101.61000000",
-      "adjustedMidUsd": "101.55500000",
-      "generatedAt": "2026-09-04T21:49:56.469511124Z"
+      "adjustedBidUsd": "101.36000000",
+      "adjustedAskUsd": "135.00000000",
+      "adjustedMidUsd": "118.18000000",
+      "generatedAt": "2026-09-05T00:02:56.378310525Z"
     },
     "0x6330d8c3178a418788df01a47479c0ce7ccf450b": {
-      "rawBidUsd": "184.53",
-      "rawAskUsd": "185",
+      "rawBidUsd": "171",
+      "rawAskUsd": "194.12",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "184.53000000",
-      "adjustedAskUsd": "185.00000000",
-      "adjustedMidUsd": "184.76500000",
-      "generatedAt": "2026-09-04T21:50:08.286128469Z"
+      "adjustedBidUsd": "171.00000000",
+      "adjustedAskUsd": "194.12000000",
+      "adjustedMidUsd": "182.56000000",
+      "generatedAt": "2026-09-05T00:02:56.374323685Z"
     },
     "0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3": {
-      "rawBidUsd": "89.06",
-      "rawAskUsd": "89.1",
+      "rawBidUsd": "89.07",
+      "rawAskUsd": "89.08",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "89.06000000",
-      "adjustedAskUsd": "89.10000000",
-      "adjustedMidUsd": "89.08000000",
-      "generatedAt": "2026-09-04T21:50:05.195663628Z"
+      "adjustedBidUsd": "89.07000000",
+      "adjustedAskUsd": "89.08000000",
+      "adjustedMidUsd": "89.07500000",
+      "generatedAt": "2026-09-05T00:03:02.356925606Z"
     },
     "0xaf3d76f1834a1d425780943c99ea8a608f8a93f9": {
-      "rawBidUsd": "319.86",
-      "rawAskUsd": "319.95",
+      "rawBidUsd": "300",
+      "rawAskUsd": "320.1",
       "currentMultiplier": "1.000566080061092436",
-      "adjustedBidUsd": "320.04106637",
-      "adjustedAskUsd": "320.13111732",
-      "adjustedMidUsd": "320.08609185",
-      "generatedAt": "2026-09-04T21:50:04.673102843Z"
+      "adjustedBidUsd": "300.16982402",
+      "adjustedAskUsd": "320.28120223",
+      "adjustedMidUsd": "310.22551313",
+      "generatedAt": "2026-09-05T00:02:55.038345502Z"
     },
     "0xc72b96e0e48ecd4dc75e1e45396e26300bc39681": {
-      "rawBidUsd": "95.78",
-      "rawAskUsd": "95.85",
+      "rawBidUsd": "95.8",
+      "rawAskUsd": "97.81",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "95.78000000",
-      "adjustedAskUsd": "95.85000000",
-      "adjustedMidUsd": "95.81500000",
-      "generatedAt": "2026-09-04T21:50:10.085565975Z"
+      "adjustedBidUsd": "95.80000000",
+      "adjustedAskUsd": "97.81000000",
+      "adjustedMidUsd": "96.80500000",
+      "generatedAt": "2026-09-05T00:02:58.998007369Z"
     },
     "0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3": {
-      "rawBidUsd": "338.91",
-      "rawAskUsd": "339.02",
+      "rawBidUsd": "338.61",
+      "rawAskUsd": "338.85",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "338.91000000",
-      "adjustedAskUsd": "339.02000000",
-      "adjustedMidUsd": "338.96500000",
-      "generatedAt": "2026-09-04T21:50:12.079420329Z"
+      "adjustedBidUsd": "338.61000000",
+      "adjustedAskUsd": "338.85000000",
+      "adjustedMidUsd": "338.73000000",
+      "generatedAt": "2026-09-05T00:03:09.433222660Z"
     },
     "0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec": {
-      "rawBidUsd": "230.01",
-      "rawAskUsd": "230.09",
+      "rawBidUsd": "228.5",
+      "rawAskUsd": "229.52",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "230.01000000",
-      "adjustedAskUsd": "230.09000000",
-      "adjustedMidUsd": "230.05000000",
-      "generatedAt": "2026-09-04T21:50:25.059946892Z"
+      "adjustedBidUsd": "228.50000000",
+      "adjustedAskUsd": "229.52000000",
+      "adjustedMidUsd": "229.01000000",
+      "generatedAt": "2026-09-05T00:02:58.438153781Z"
     },
     "0xc0d6457c16cc70d6790dd43521c899c87ce02f35": {
-      "rawBidUsd": "615",
-      "rawAskUsd": "615.18",
+      "rawBidUsd": "607.75",
+      "rawAskUsd": "623.86",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "615.00000000",
-      "adjustedAskUsd": "615.18000000",
-      "adjustedMidUsd": "615.09000000",
-      "generatedAt": "2026-09-04T21:50:28.905455914Z"
+      "adjustedBidUsd": "607.75000000",
+      "adjustedAskUsd": "623.86000000",
+      "adjustedMidUsd": "615.80500000",
+      "generatedAt": "2026-09-05T00:03:08.443096817Z"
     },
     "0x322f0929c4625ed5bad873c95208d54e1c003b2d": {
-      "rawBidUsd": "353.33",
-      "rawAskUsd": "353.36",
+      "rawBidUsd": "352.85",
+      "rawAskUsd": "358.1",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "353.33000000",
-      "adjustedAskUsd": "353.36000000",
-      "adjustedMidUsd": "353.34500000",
-      "generatedAt": "2026-09-04T21:50:28.939338071Z"
+      "adjustedBidUsd": "352.85000000",
+      "adjustedAskUsd": "358.10000000",
+      "adjustedMidUsd": "355.47500000",
+      "generatedAt": "2026-09-05T00:03:05.606199635Z"
     },
     "0x894e1ec2d74ffe5aef8dc8a9e84686accb964f2a": {
-      "rawBidUsd": "174.4",
-      "rawAskUsd": "174.48",
+      "rawBidUsd": "173.49",
+      "rawAskUsd": "174.6",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "174.40000000",
-      "adjustedAskUsd": "174.48000000",
-      "adjustedMidUsd": "174.44000000",
-      "generatedAt": "2026-09-04T21:50:18.388565812Z"
+      "adjustedBidUsd": "173.49000000",
+      "adjustedAskUsd": "174.60000000",
+      "adjustedMidUsd": "174.04500000",
+      "generatedAt": "2026-09-05T00:02:55.753564213Z"
     },
     "0xd917b029c761d264c6a312bbbcda868658ef86a6": {
-      "rawBidUsd": "17.32",
-      "rawAskUsd": "17.5",
+      "rawBidUsd": "15.5",
+      "rawAskUsd": "17.44",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "17.32000000",
-      "adjustedAskUsd": "17.50000000",
-      "adjustedMidUsd": "17.41000000",
-      "generatedAt": "2026-09-04T21:50:26.577920087Z"
+      "adjustedBidUsd": "15.50000000",
+      "adjustedAskUsd": "17.44000000",
+      "adjustedMidUsd": "16.47000000",
+      "generatedAt": "2026-09-05T00:03:01.526033408Z"
     },
     "0xff080c8ce2e5feadaca0da81314ae59d232d4afd": {
-      "rawBidUsd": "1014.1",
-      "rawAskUsd": "1014.2",
+      "rawBidUsd": "1014.91",
+      "rawAskUsd": "1015.7",
       "currentMultiplier": "1.000074823219171086",
-      "adjustedBidUsd": "1014.17587823",
-      "adjustedAskUsd": "1014.27588571",
-      "adjustedMidUsd": "1014.22588197",
-      "generatedAt": "2026-09-04T21:50:29.090402932Z"
+      "adjustedBidUsd": "1014.98593883",
+      "adjustedAskUsd": "1015.77599794",
+      "adjustedMidUsd": "1015.38096839",
+      "generatedAt": "2026-09-05T00:03:05.792983759Z"
     },
     "0xe93237c50d904957cf27e7b1133b510c669c2e74": {
-      "rawBidUsd": "499.22",
-      "rawAskUsd": "499.7",
+      "rawBidUsd": "499.44",
+      "rawAskUsd": "525",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "499.22000000",
-      "adjustedAskUsd": "499.70000000",
-      "adjustedMidUsd": "499.46000000",
-      "generatedAt": "2026-09-04T21:50:25.655574927Z"
+      "adjustedBidUsd": "499.44000000",
+      "adjustedAskUsd": "525.00000000",
+      "adjustedMidUsd": "512.22000000",
+      "generatedAt": "2026-09-05T00:03:09.684909029Z"
     },
     "0xb90a19ff0af67f7779aff50a882a9cff42446400": {
-      "rawBidUsd": "1732",
-      "rawAskUsd": "1732.5",
+      "rawBidUsd": "1733",
+      "rawAskUsd": "1734.15",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "1732.00000000",
-      "adjustedAskUsd": "1732.50000000",
-      "adjustedMidUsd": "1732.25000000",
-      "generatedAt": "2026-09-04T21:50:20.129513098Z"
+      "adjustedBidUsd": "1733.00000000",
+      "adjustedAskUsd": "1734.15000000",
+      "adjustedMidUsd": "1733.57500000",
+      "generatedAt": "2026-09-05T00:03:08.864349860Z"
     },
     "0xb0992820e760d836549ba69bc7598b4af75dee03": {
-      "rawBidUsd": "159.25",
-      "rawAskUsd": "159.6",
+      "rawBidUsd": "150",
+      "rawAskUsd": "161.47",
       "currentMultiplier": "1.002210914971013375",
-      "adjustedBidUsd": "159.60208821",
-      "adjustedAskUsd": "159.95286203",
-      "adjustedMidUsd": "159.77747512",
-      "generatedAt": "2026-09-04T21:50:23.313844566Z"
+      "adjustedBidUsd": "150.33163725",
+      "adjustedAskUsd": "161.82699644",
+      "adjustedMidUsd": "156.07931685",
+      "generatedAt": "2026-09-05T00:03:00.995784889Z"
     },
     "0x1b0e319c6a659f002271b69db8a7df2f911c153e": {
-      "rawBidUsd": "19.17",
-      "rawAskUsd": "19.21",
+      "rawBidUsd": "18.88",
+      "rawAskUsd": "50",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "19.17000000",
-      "adjustedAskUsd": "19.21000000",
-      "adjustedMidUsd": "19.19000000",
-      "generatedAt": "2026-09-04T21:50:28.881019502Z"
+      "adjustedBidUsd": "18.88000000",
+      "adjustedAskUsd": "50.00000000",
+      "adjustedMidUsd": "34.44000000",
+      "generatedAt": "2026-09-05T00:03:01.403034097Z"
     },
     "0x05b37fb53a299a1b874a619e1c4c404d52c36f4c": {
-      "rawBidUsd": "154.3",
-      "rawAskUsd": "154.6",
+      "rawBidUsd": "153",
+      "rawAskUsd": "195",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "154.30000000",
-      "adjustedAskUsd": "154.60000000",
-      "adjustedMidUsd": "154.45000000",
-      "generatedAt": "2026-09-04T21:50:35.570316404Z"
+      "adjustedBidUsd": "153.00000000",
+      "adjustedAskUsd": "195.00000000",
+      "adjustedMidUsd": "174.00000000",
+      "generatedAt": "2026-09-05T00:03:10.383040870Z"
     },
     "0xf0c4bf4c582cb3836e98394b1d4e7b7281101be8": {
-      "rawBidUsd": "43.3",
-      "rawAskUsd": "43.49",
+      "rawBidUsd": "41.45",
+      "rawAskUsd": "49.87",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "43.30000000",
-      "adjustedAskUsd": "43.49000000",
-      "adjustedMidUsd": "43.39500000",
-      "generatedAt": "2026-09-04T21:50:26.665776256Z"
+      "adjustedBidUsd": "41.45000000",
+      "adjustedAskUsd": "49.87000000",
+      "adjustedMidUsd": "45.66000000",
+      "generatedAt": "2026-09-05T00:03:06.757072396Z"
     },
     "0x941ae714ec6d8130c7b75d67160ca08f1e7d11dd": {
-      "rawBidUsd": "522.01",
-      "rawAskUsd": "522.49",
+      "rawBidUsd": "522.23",
+      "rawAskUsd": "540",
       "currentMultiplier": "1.000063708620124549",
-      "adjustedBidUsd": "522.04325654",
-      "adjustedAskUsd": "522.52328712",
-      "adjustedMidUsd": "522.28327183",
-      "generatedAt": "2026-09-04T21:50:34.046219384Z"
+      "adjustedBidUsd": "522.26327055",
+      "adjustedAskUsd": "540.03440265",
+      "adjustedMidUsd": "531.14883660",
+      "generatedAt": "2026-09-05T00:03:03.027226779Z"
     },
     "0x117cc2133c37b721f49de2a7a74833232b3b4c0c": {
-      "rawBidUsd": "769.6",
-      "rawAskUsd": "769.89",
+      "rawBidUsd": "769.05",
+      "rawAskUsd": "769.9",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "769.60000000",
-      "adjustedAskUsd": "769.89000000",
-      "adjustedMidUsd": "769.74500000",
-      "generatedAt": "2026-09-04T21:50:28.318593120Z"
+      "adjustedBidUsd": "769.05000000",
+      "adjustedAskUsd": "769.90000000",
+      "adjustedMidUsd": "769.47500000",
+      "generatedAt": "2026-09-05T00:03:10.716220960Z"
     },
     "0x4ea005168d7f09a7a0ba9d1def21a479950e44c2": {
-      "rawBidUsd": "915.74",
-      "rawAskUsd": "916.2",
+      "rawBidUsd": "911.33",
+      "rawAskUsd": "921.07",
       "currentMultiplier": "1.000612040296259656",
-      "adjustedBidUsd": "916.30046978",
-      "adjustedAskUsd": "916.76075132",
-      "adjustedMidUsd": "916.53061055",
-      "generatedAt": "2026-09-04T21:50:24.464660685Z"
+      "adjustedBidUsd": "911.88777068",
+      "adjustedAskUsd": "921.63373196",
+      "adjustedMidUsd": "916.76075132",
+      "generatedAt": "2026-09-05T00:03:01.386257041Z"
     },
     "0x9b23573b156b52565012f5ce02cdf60afbaa70be": {
-      "rawBidUsd": "51.5",
-      "rawAskUsd": "51.8",
+      "rawBidUsd": "50.4",
+      "rawAskUsd": "53.19",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "51.50000000",
-      "adjustedAskUsd": "51.80000000",
-      "adjustedMidUsd": "51.65000000",
-      "generatedAt": "2026-09-04T21:50:39.623099440Z"
+      "adjustedBidUsd": "50.40000000",
+      "adjustedAskUsd": "53.19000000",
+      "adjustedMidUsd": "51.79500000",
+      "generatedAt": "2026-09-05T00:03:09.401081568Z"
     },
     "0xa30fa36db767ad9ed3f7a60fc79526fb4d56d344": {
-      "rawBidUsd": "141.4",
-      "rawAskUsd": "141.8",
+      "rawBidUsd": "68.89",
+      "rawAskUsd": "236.68",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "141.40000000",
-      "adjustedAskUsd": "141.80000000",
-      "adjustedMidUsd": "141.60000000",
-      "generatedAt": "2026-09-04T21:50:35.792645271Z"
+      "adjustedBidUsd": "68.89000000",
+      "adjustedAskUsd": "236.68000000",
+      "adjustedMidUsd": "152.78500000",
+      "generatedAt": "2026-09-05T00:03:03.178744002Z"
     },
     "0x58ffe4a942d3885baa22d7520691f611ef09e7aa": {
-      "rawBidUsd": "427.74",
-      "rawAskUsd": "428",
+      "rawBidUsd": "415",
+      "rawAskUsd": "430",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "427.74000000",
-      "adjustedAskUsd": "428.00000000",
-      "adjustedMidUsd": "427.87000000",
-      "generatedAt": "2026-09-04T21:50:27.730686057Z"
+      "adjustedBidUsd": "415.00000000",
+      "adjustedAskUsd": "430.00000000",
+      "adjustedMidUsd": "422.50000000",
+      "generatedAt": "2026-09-05T00:03:04.368801663Z"
     },
     "0xeb30663bdff0622ef4e4e5cbb4e975f19f33f51d": {
-      "rawBidUsd": "121.67",
-      "rawAskUsd": "122.05",
+      "rawBidUsd": "121.14",
+      "rawAskUsd": "121.99",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "121.67000000",
-      "adjustedAskUsd": "122.05000000",
-      "adjustedMidUsd": "121.86000000",
-      "generatedAt": "2026-09-04T21:50:54.126064986Z"
+      "adjustedBidUsd": "121.14000000",
+      "adjustedAskUsd": "121.99000000",
+      "adjustedMidUsd": "121.56500000",
+      "generatedAt": "2026-09-05T00:03:11.913188755Z"
     },
     "0xec262a75e413fafd0df80480274532c79d42da09": {
-      "rawBidUsd": "142.64",
-      "rawAskUsd": "142.9",
+      "rawBidUsd": "142.5",
+      "rawAskUsd": "146.8",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "142.64000000",
-      "adjustedAskUsd": "142.90000000",
-      "adjustedMidUsd": "142.77000000",
-      "generatedAt": "2026-09-04T21:50:38.017024702Z"
+      "adjustedBidUsd": "142.50000000",
+      "adjustedAskUsd": "146.80000000",
+      "adjustedMidUsd": "144.65000000",
+      "generatedAt": "2026-09-05T00:03:09.488983967Z"
     },
     "0x822cc93ffd030293e9842c30bbd678f530701867": {
-      "rawBidUsd": "268",
-      "rawAskUsd": "268.39",
+      "rawBidUsd": "266.14",
+      "rawAskUsd": "271",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "268.00000000",
-      "adjustedAskUsd": "268.39000000",
-      "adjustedMidUsd": "268.19500000",
-      "generatedAt": "2026-09-04T21:50:39.629607806Z"
+      "adjustedBidUsd": "266.14000000",
+      "adjustedAskUsd": "271.00000000",
+      "adjustedMidUsd": "268.57000000",
+      "generatedAt": "2026-09-05T00:03:12.162921133Z"
     },
     "0xbef75684c43c4ea7bd18dd532a2244674ee8b926": {
-      "rawBidUsd": "17.65",
-      "rawAskUsd": "17.75",
+      "rawBidUsd": "15.25",
+      "rawAskUsd": "18",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "17.65000000",
-      "adjustedAskUsd": "17.75000000",
-      "adjustedMidUsd": "17.70000000",
-      "generatedAt": "2026-09-04T21:50:47.635358381Z"
+      "adjustedBidUsd": "15.25000000",
+      "adjustedAskUsd": "18.00000000",
+      "adjustedMidUsd": "16.62500000",
+      "generatedAt": "2026-09-05T00:03:16.782774880Z"
     },
     "0x27c99fbde9d0d2aa4f4bfb4943f237843ddf6958": {
-      "rawBidUsd": "212",
-      "rawAskUsd": "213.01",
+      "rawBidUsd": "211.12",
+      "rawAskUsd": "245",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "212.00000000",
-      "adjustedAskUsd": "213.01000000",
-      "adjustedMidUsd": "212.50500000",
-      "generatedAt": "2026-09-04T21:50:51.238946747Z"
+      "adjustedBidUsd": "211.12000000",
+      "adjustedAskUsd": "245.00000000",
+      "adjustedMidUsd": "228.06000000",
+      "generatedAt": "2026-09-05T00:03:15.465880568Z"
     },
     "0x411efb0e7f985935daec3d4c3ebaea0d0ad7d89f": {
-      "rawBidUsd": "59.76",
-      "rawAskUsd": "59.88",
+      "rawBidUsd": "59.81",
+      "rawAskUsd": "60.93",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "59.76000000",
-      "adjustedAskUsd": "59.88000000",
-      "adjustedMidUsd": "59.82000000",
-      "generatedAt": "2026-09-04T21:50:51.761223096Z"
+      "adjustedBidUsd": "59.81000000",
+      "adjustedAskUsd": "60.93000000",
+      "adjustedMidUsd": "60.37000000",
+      "generatedAt": "2026-09-05T00:03:19.071055043Z"
     },
     "0xe0444ef8bf4ed74f74fd73686e2ddf4c1c5591e8": {
-      "rawBidUsd": "78.33",
-      "rawAskUsd": "78.35",
+      "rawBidUsd": "77.12",
+      "rawAskUsd": "79.32",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "78.33000000",
-      "adjustedAskUsd": "78.35000000",
-      "adjustedMidUsd": "78.34000000",
-      "generatedAt": "2026-09-04T21:50:48.846067139Z"
+      "adjustedBidUsd": "77.12000000",
+      "adjustedAskUsd": "79.32000000",
+      "adjustedMidUsd": "78.22000000",
+      "generatedAt": "2026-09-05T00:03:18.954970536Z"
     },
     "0xf9b46d3d1b22199d4d1025a9cedb540a33f1a2d5": {
-      "rawBidUsd": "159.35",
-      "rawAskUsd": "160.22",
+      "rawBidUsd": "157.43",
+      "rawAskUsd": "161.81",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "159.35000000",
-      "adjustedAskUsd": "160.22000000",
-      "adjustedMidUsd": "159.78500000",
-      "generatedAt": "2026-09-04T21:50:49.112811092Z"
+      "adjustedBidUsd": "157.43000000",
+      "adjustedAskUsd": "161.81000000",
+      "adjustedMidUsd": "159.62000000",
+      "generatedAt": "2026-09-05T00:03:20.467581808Z"
     },
     "0x47f93d52cbec7c6d2cfc080e154002370a60daea": {
-      "rawBidUsd": "1710",
-      "rawAskUsd": "1713.17",
+      "rawBidUsd": "1699",
+      "rawAskUsd": "1714.87",
       "currentMultiplier": "1.000101323251417769",
-      "adjustedBidUsd": "1710.17326276",
-      "adjustedAskUsd": "1713.34358395",
-      "adjustedMidUsd": "1711.75842336",
-      "generatedAt": "2026-09-04T21:50:52.414993089Z"
+      "adjustedBidUsd": "1699.17214820",
+      "adjustedAskUsd": "1715.04375620",
+      "adjustedMidUsd": "1707.10795220",
+      "generatedAt": "2026-09-05T00:03:11.666263839Z"
     },
     "0x9651342cea770ae9a2969ba2a52611523146aef9": {
-      "rawBidUsd": "23.52",
-      "rawAskUsd": "23.55",
+      "rawBidUsd": "23.27",
+      "rawAskUsd": "23.81",
       "currentMultiplier": "1.021486444855206408",
-      "adjustedBidUsd": "24.02536118",
-      "adjustedAskUsd": "24.05600578",
-      "adjustedMidUsd": "24.04068348",
-      "generatedAt": "2026-09-04T21:50:56.439853328Z"
+      "adjustedBidUsd": "23.76998957",
+      "adjustedAskUsd": "24.32159225",
+      "adjustedMidUsd": "24.04579091",
+      "generatedAt": "2026-09-05T00:03:23.544372254Z"
     },
     "0x15cd20759ce7f3285c29a319de2d1a2e098c6f43": {
-      "rawBidUsd": "187.05",
-      "rawAskUsd": "187.5",
+      "rawBidUsd": "170.19",
+      "rawAskUsd": "204.17",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "187.05000000",
-      "adjustedAskUsd": "187.50000000",
-      "adjustedMidUsd": "187.27500000",
-      "generatedAt": "2026-09-04T21:50:51.246413176Z"
+      "adjustedBidUsd": "170.19000000",
+      "adjustedAskUsd": "204.17000000",
+      "adjustedMidUsd": "187.18000000",
+      "generatedAt": "2026-09-05T00:03:21.740992715Z"
     },
     "0xf23250dac154d05bb671cb0d0ebef3c635c79ce2": {
-      "rawBidUsd": "102.31",
-      "rawAskUsd": "102.41",
+      "rawBidUsd": "101.56",
+      "rawAskUsd": "103.11",
       "currentMultiplier": "1.002208724969205741",
-      "adjustedBidUsd": "102.53597465",
-      "adjustedAskUsd": "102.63619552",
-      "adjustedMidUsd": "102.58608509",
-      "generatedAt": "2026-09-04T21:50:53.955868599Z"
+      "adjustedBidUsd": "101.78431811",
+      "adjustedAskUsd": "103.33774163",
+      "adjustedMidUsd": "102.56102987",
+      "generatedAt": "2026-09-05T00:03:20.496534156Z"
     },
     "0x408c14038a04f7bd235329e26d2bf569ee20e250": {
-      "rawBidUsd": "15.35",
-      "rawAskUsd": "15.39",
+      "rawBidUsd": "14",
+      "rawAskUsd": "15.55",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "15.35000000",
-      "adjustedAskUsd": "15.39000000",
-      "adjustedMidUsd": "15.37000000",
-      "generatedAt": "2026-09-04T21:50:59.133719892Z"
+      "adjustedBidUsd": "14.00000000",
+      "adjustedAskUsd": "15.55000000",
+      "adjustedMidUsd": "14.77500000",
+      "generatedAt": "2026-09-05T00:03:23.071219169Z"
     },
     "0x98e75885157c80992a8d41b696d8c9c6fb30a926": {
-      "rawBidUsd": "18.16",
-      "rawAskUsd": "18.22",
+      "rawBidUsd": "18.13",
+      "rawAskUsd": "18.51",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "18.16000000",
-      "adjustedAskUsd": "18.22000000",
-      "adjustedMidUsd": "18.19000000",
-      "generatedAt": "2026-09-04T21:50:55.826010825Z"
+      "adjustedBidUsd": "18.13000000",
+      "adjustedAskUsd": "18.51000000",
+      "adjustedMidUsd": "18.32000000",
+      "generatedAt": "2026-09-05T00:03:19.373413784Z"
     },
     "0x1d11f0496982706c5e14a514d4e79f2e6bde4516": {
-      "rawBidUsd": "9.05",
-      "rawAskUsd": "9.07",
+      "rawBidUsd": "8.98",
+      "rawAskUsd": "9.2",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "9.05000000",
-      "adjustedAskUsd": "9.07000000",
-      "adjustedMidUsd": "9.06000000",
-      "generatedAt": "2026-09-04T21:50:50.109691196Z"
+      "adjustedBidUsd": "8.98000000",
+      "adjustedAskUsd": "9.20000000",
+      "adjustedMidUsd": "9.09000000",
+      "generatedAt": "2026-09-05T00:03:22.161472886Z"
     },
     "0x2d427692e928fa156ec22acfabafa0447c5805b7": {
-      "rawBidUsd": "26.11",
-      "rawAskUsd": "26.54",
+      "rawBidUsd": "20",
+      "rawAskUsd": "35",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "26.11000000",
-      "adjustedAskUsd": "26.54000000",
-      "adjustedMidUsd": "26.32500000",
-      "generatedAt": "2026-09-04T21:50:52.586440391Z"
+      "adjustedBidUsd": "20.00000000",
+      "adjustedAskUsd": "35.00000000",
+      "adjustedMidUsd": "27.50000000",
+      "generatedAt": "2026-09-05T00:03:18.588363123Z"
     },
     "0x5e81213613b6b86eab4c6c50d718d34359459786": {
-      "rawBidUsd": "214.7",
-      "rawAskUsd": "215.85",
+      "rawBidUsd": "214.77",
+      "rawAskUsd": "220.85",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "214.70000000",
-      "adjustedAskUsd": "215.85000000",
-      "adjustedMidUsd": "215.27500000",
-      "generatedAt": "2026-09-04T21:50:47.660882648Z"
+      "adjustedBidUsd": "214.77000000",
+      "adjustedAskUsd": "220.85000000",
+      "adjustedMidUsd": "217.81000000",
+      "generatedAt": "2026-09-05T00:03:23.038183328Z"
     },
     "0xccee82fe024c36fa15e1005ede3e9e4787e23d09": {
-      "rawBidUsd": "27.71",
-      "rawAskUsd": "27.78",
+      "rawBidUsd": "27.8",
+      "rawAskUsd": "32",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "27.71000000",
-      "adjustedAskUsd": "27.78000000",
-      "adjustedMidUsd": "27.74500000",
-      "generatedAt": "2026-09-04T21:51:01.296423623Z"
+      "adjustedBidUsd": "27.80000000",
+      "adjustedAskUsd": "32.00000000",
+      "adjustedMidUsd": "29.90000000",
+      "generatedAt": "2026-09-05T00:03:19.066746895Z"
     },
     "0x116f00968269b7bfbad4109ce591d6e74c0601d4": {
-      "rawBidUsd": "278.5",
-      "rawAskUsd": "278.85",
+      "rawBidUsd": "272.2",
+      "rawAskUsd": "290.2",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "278.50000000",
-      "adjustedAskUsd": "278.85000000",
-      "adjustedMidUsd": "278.67500000",
-      "generatedAt": "2026-09-04T21:51:02.010452698Z"
+      "adjustedBidUsd": "272.20000000",
+      "adjustedAskUsd": "290.20000000",
+      "adjustedMidUsd": "281.20000000",
+      "generatedAt": "2026-09-05T00:03:18.950298991Z"
     },
     "0x980dcf6766fa79f5cf0c4aadb3ab477ff15a9619": {
-      "rawBidUsd": "234.8",
-      "rawAskUsd": "235",
+      "rawBidUsd": "232.16",
+      "rawAskUsd": "237.48",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "234.80000000",
-      "adjustedAskUsd": "235.00000000",
-      "adjustedMidUsd": "234.90000000",
-      "generatedAt": "2026-09-04T21:51:05.563593559Z"
+      "adjustedBidUsd": "232.16000000",
+      "adjustedAskUsd": "237.48000000",
+      "adjustedMidUsd": "234.82000000",
+      "generatedAt": "2026-09-05T00:03:16.417548116Z"
     },
     "0x43b07d15ce533bec5476d70c22a78a1b2b662155": {
-      "rawBidUsd": "144.9",
-      "rawAskUsd": "145.2",
+      "rawBidUsd": "142.71",
+      "rawAskUsd": "152.4",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "144.90000000",
-      "adjustedAskUsd": "145.20000000",
-      "adjustedMidUsd": "145.05000000",
-      "generatedAt": "2026-09-04T21:51:10.211114619Z"
+      "adjustedBidUsd": "142.71000000",
+      "adjustedAskUsd": "152.40000000",
+      "adjustedMidUsd": "147.55500000",
+      "generatedAt": "2026-09-05T00:03:22.686895481Z"
     },
     "0xc9a981fee1f9dec688bb123ccdecc63d0debfc4e": {
-      "rawBidUsd": "406.22",
-      "rawAskUsd": "406.88",
+      "rawBidUsd": "406.51",
+      "rawAskUsd": "500",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "406.22000000",
-      "adjustedAskUsd": "406.88000000",
-      "adjustedMidUsd": "406.55000000",
-      "generatedAt": "2026-09-04T21:51:02.436000413Z"
+      "adjustedBidUsd": "406.51000000",
+      "adjustedAskUsd": "500.00000000",
+      "adjustedMidUsd": "453.25500000",
+      "generatedAt": "2026-09-05T00:03:23.851619114Z"
     },
     "0x84cab63bc87912e71ad199ff14a0ba45de68fef8": {
-      "rawBidUsd": "175.38",
-      "rawAskUsd": "175.47",
+      "rawBidUsd": "174.91",
+      "rawAskUsd": "175.22",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "175.38000000",
-      "adjustedAskUsd": "175.47000000",
-      "adjustedMidUsd": "175.42500000",
-      "generatedAt": "2026-09-04T21:51:09.794149195Z"
+      "adjustedBidUsd": "174.91000000",
+      "adjustedAskUsd": "175.22000000",
+      "adjustedMidUsd": "175.06500000",
+      "generatedAt": "2026-09-05T00:03:20.391382178Z"
     },
     "0x48e39e56acdba37b09020c0b734a613c9a2f100a": {
       "rawBidUsd": "7.69",
-      "rawAskUsd": "7.73",
+      "rawAskUsd": "7.9",
       "currentMultiplier": "1.000000000000000000",
       "adjustedBidUsd": "7.69000000",
-      "adjustedAskUsd": "7.73000000",
-      "adjustedMidUsd": "7.71000000",
-      "generatedAt": "2026-09-04T21:51:04.393238441Z"
+      "adjustedAskUsd": "7.90000000",
+      "adjustedMidUsd": "7.79500000",
+      "generatedAt": "2026-09-05T00:03:19.081044662Z"
     },
     "0xfde6b5d9bb419b10c23268c74e369abff39c0460": {
-      "rawBidUsd": "8.37",
-      "rawAskUsd": "8.41",
+      "rawBidUsd": "8.1",
+      "rawAskUsd": "8.65",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "8.37000000",
-      "adjustedAskUsd": "8.41000000",
-      "adjustedMidUsd": "8.39000000",
-      "generatedAt": "2026-09-04T21:51:11.826336745Z"
+      "adjustedBidUsd": "8.10000000",
+      "adjustedAskUsd": "8.65000000",
+      "adjustedMidUsd": "8.37500000",
+      "generatedAt": "2026-09-05T00:03:29.082607699Z"
     },
     "0x329fcaceb9ad6f9580dd5f643fed0646900d043c": {
-      "rawBidUsd": "525.71",
-      "rawAskUsd": "526.25",
+      "rawBidUsd": "450",
+      "rawAskUsd": "530.14",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "525.71000000",
-      "adjustedAskUsd": "526.25000000",
-      "adjustedMidUsd": "525.98000000",
-      "generatedAt": "2026-09-04T21:51:09.990025856Z"
+      "adjustedBidUsd": "450.00000000",
+      "adjustedAskUsd": "530.14000000",
+      "adjustedMidUsd": "490.07000000",
+      "generatedAt": "2026-09-05T00:03:20.179621757Z"
     },
     "0x1cdad396db64bda184d5182a97dd9b3c62100b7d": {
-      "rawBidUsd": "101.7",
-      "rawAskUsd": "101.98",
+      "rawBidUsd": "100",
+      "rawAskUsd": "104.43",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "101.70000000",
-      "adjustedAskUsd": "101.98000000",
-      "adjustedMidUsd": "101.84000000",
-      "generatedAt": "2026-09-04T21:51:05.079209447Z"
+      "adjustedBidUsd": "100.00000000",
+      "adjustedAskUsd": "104.43000000",
+      "adjustedMidUsd": "102.21500000",
+      "generatedAt": "2026-09-05T00:03:28.139326064Z"
     },
     "0xbbd09f72b025360fee5c928053dca6248d35be54": {
-      "rawBidUsd": "74",
-      "rawAskUsd": "74.55",
+      "rawBidUsd": "70",
+      "rawAskUsd": "75.9",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "74.00000000",
-      "adjustedAskUsd": "74.55000000",
-      "adjustedMidUsd": "74.27500000",
-      "generatedAt": "2026-09-04T21:51:01.823055434Z"
+      "adjustedBidUsd": "70.00000000",
+      "adjustedAskUsd": "75.90000000",
+      "adjustedMidUsd": "72.95000000",
+      "generatedAt": "2026-09-05T00:03:32.069428881Z"
     },
     "0x63b814ddbd6bf339f25fed8c36158a008d5b373e": {
-      "rawBidUsd": "337",
-      "rawAskUsd": "338",
+      "rawBidUsd": "331.4",
+      "rawAskUsd": "343.43",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "337.00000000",
-      "adjustedAskUsd": "338.00000000",
-      "adjustedMidUsd": "337.50000000",
-      "generatedAt": "2026-09-04T21:51:04.323037203Z"
+      "adjustedBidUsd": "331.40000000",
+      "adjustedAskUsd": "343.43000000",
+      "adjustedMidUsd": "337.41500000",
+      "generatedAt": "2026-09-05T00:03:24.085391233Z"
     },
     "0x237c16d66590f67b886d978acd362eaead8b18c7": {
-      "rawBidUsd": "181.17",
-      "rawAskUsd": "185",
+      "rawBidUsd": "181.18",
+      "rawAskUsd": "186.7",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "181.17000000",
-      "adjustedAskUsd": "185.00000000",
-      "adjustedMidUsd": "183.08500000",
-      "generatedAt": "2026-09-04T21:51:06.740118625Z"
+      "adjustedBidUsd": "181.18000000",
+      "adjustedAskUsd": "186.70000000",
+      "adjustedMidUsd": "183.94000000",
+      "generatedAt": "2026-09-05T00:03:19.557622259Z"
     },
     "0xcef9027c7d6985b85f0ba431125073529a947a68": {
-      "rawBidUsd": "9.7",
-      "rawAskUsd": "9.75",
+      "rawBidUsd": "9.68",
+      "rawAskUsd": "10.05",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "9.70000000",
-      "adjustedAskUsd": "9.75000000",
-      "adjustedMidUsd": "9.72500000",
-      "generatedAt": "2026-09-04T21:51:01.049005798Z"
+      "adjustedBidUsd": "9.68000000",
+      "adjustedAskUsd": "10.05000000",
+      "adjustedMidUsd": "9.86500000",
+      "generatedAt": "2026-09-05T00:03:33.568800876Z"
     },
     "0x373c06c4f7bde527d7dae4ba169e42b55e393ced": {
-      "rawBidUsd": "6.28",
-      "rawAskUsd": "6.35",
+      "rawBidUsd": "6.21",
+      "rawAskUsd": "6.34",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "6.28000000",
-      "adjustedAskUsd": "6.35000000",
-      "adjustedMidUsd": "6.31500000",
-      "generatedAt": "2026-09-04T21:51:05.868133718Z"
+      "adjustedBidUsd": "6.21000000",
+      "adjustedAskUsd": "6.34000000",
+      "adjustedMidUsd": "6.27500000",
+      "generatedAt": "2026-09-05T00:03:21.027106343Z"
     },
     "0xeb61c0ed490a367d4e3631ccf8a74b3bfc7e775d": {
-      "rawBidUsd": "283",
-      "rawAskUsd": "310.73",
+      "rawBidUsd": "258.04",
+      "rawAskUsd": "312.83",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "283.00000000",
-      "adjustedAskUsd": "310.73000000",
-      "adjustedMidUsd": "296.86500000",
-      "generatedAt": "2026-09-04T21:51:04.329019350Z"
+      "adjustedBidUsd": "258.04000000",
+      "adjustedAskUsd": "312.83000000",
+      "adjustedMidUsd": "285.43500000",
+      "generatedAt": "2026-09-05T00:03:34.569849633Z"
     },
     "0x44c4f142009036cf477ed2d09932051843137cf1": {
-      "rawBidUsd": "100.5",
-      "rawAskUsd": "101.3",
+      "rawBidUsd": "100.55",
+      "rawAskUsd": "109.27",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "100.50000000",
-      "adjustedAskUsd": "101.30000000",
-      "adjustedMidUsd": "100.90000000",
-      "generatedAt": "2026-09-04T21:51:11.371274459Z"
+      "adjustedBidUsd": "100.55000000",
+      "adjustedAskUsd": "109.27000000",
+      "adjustedMidUsd": "104.91000000",
+      "generatedAt": "2026-09-05T00:03:26.785428043Z"
     },
     "0x25c288e6d899b9bc30160965ad9644c67e73be0c": {
-      "rawBidUsd": "14.57",
-      "rawAskUsd": "14.6",
+      "rawBidUsd": "14.42",
+      "rawAskUsd": "15",
       "currentMultiplier": "1.000145502866134027",
-      "adjustedBidUsd": "14.57211998",
-      "adjustedAskUsd": "14.60212434",
-      "adjustedMidUsd": "14.58712216",
-      "generatedAt": "2026-09-04T21:51:12.004095415Z"
+      "adjustedBidUsd": "14.42209815",
+      "adjustedAskUsd": "15.00218254",
+      "adjustedMidUsd": "14.71214035",
+      "generatedAt": "2026-09-05T00:03:33.703221Z"
     },
     "0x05a3d1cd21d0c88145e82600e62e7e496e0f222b": {
-      "rawBidUsd": "2.66",
-      "rawAskUsd": "2.67",
+      "rawBidUsd": "2.65",
+      "rawAskUsd": "2.76",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "2.66000000",
-      "adjustedAskUsd": "2.67000000",
-      "adjustedMidUsd": "2.66500000",
-      "generatedAt": "2026-09-04T21:51:04.461927845Z"
+      "adjustedBidUsd": "2.65000000",
+      "adjustedAskUsd": "2.76000000",
+      "adjustedMidUsd": "2.70500000",
+      "generatedAt": "2026-09-05T00:03:30.541126631Z"
     },
     "0x7c04e6a3368f2a1de3874f0e80d2e0a1a9915da6": {
       "rawBidUsd": "154",
-      "rawAskUsd": "154.13",
+      "rawAskUsd": "156.88",
       "currentMultiplier": "1.000000000000000000",
       "adjustedBidUsd": "154.00000000",
-      "adjustedAskUsd": "154.13000000",
-      "adjustedMidUsd": "154.06500000",
-      "generatedAt": "2026-09-04T21:51:10.201894405Z"
+      "adjustedAskUsd": "156.88000000",
+      "adjustedMidUsd": "155.44000000",
+      "generatedAt": "2026-09-05T00:03:36.574384328Z"
     },
     "0xfa78c12e6488814a0262e4e802749a4a737d5fb7": {
-      "rawBidUsd": "279.61",
-      "rawAskUsd": "280.3",
+      "rawBidUsd": "263.58",
+      "rawAskUsd": "285",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "279.61000000",
-      "adjustedAskUsd": "280.30000000",
-      "adjustedMidUsd": "279.95500000",
-      "generatedAt": "2026-09-04T21:51:12.894181338Z"
+      "adjustedBidUsd": "263.58000000",
+      "adjustedAskUsd": "285.00000000",
+      "adjustedMidUsd": "274.29000000",
+      "generatedAt": "2026-09-05T00:03:28.497145951Z"
     },
     "0x4d21483a44bf67a86b77e3da301411880797d452": {
-      "rawBidUsd": "212",
-      "rawAskUsd": "212.25",
+      "rawBidUsd": "207.24",
+      "rawAskUsd": "214.24",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "212.00000000",
-      "adjustedAskUsd": "212.25000000",
-      "adjustedMidUsd": "212.12500000",
-      "generatedAt": "2026-09-04T21:51:19.944673776Z"
+      "adjustedBidUsd": "207.24000000",
+      "adjustedAskUsd": "214.24000000",
+      "adjustedMidUsd": "210.74000000",
+      "generatedAt": "2026-09-05T00:03:37.051246108Z"
     },
     "0xae517a2903e68bd929dfd15be875f8369d53e94a": {
-      "rawBidUsd": "298.35",
-      "rawAskUsd": "298.75",
+      "rawBidUsd": "283.49",
+      "rawAskUsd": "303.04",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "298.35000000",
-      "adjustedAskUsd": "298.75000000",
-      "adjustedMidUsd": "298.55000000",
-      "generatedAt": "2026-09-04T21:51:25.051634276Z"
+      "adjustedBidUsd": "283.49000000",
+      "adjustedAskUsd": "303.04000000",
+      "adjustedMidUsd": "293.26500000",
+      "generatedAt": "2026-09-05T00:03:26.688712003Z"
     },
     "0x072f979c2cac8e1391b0162a87fee094bf8744a0": {
-      "rawBidUsd": "565.75",
-      "rawAskUsd": "566.25",
+      "rawBidUsd": "535",
+      "rawAskUsd": "567",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "565.75000000",
-      "adjustedAskUsd": "566.25000000",
-      "adjustedMidUsd": "566.00000000",
-      "generatedAt": "2026-09-04T21:51:13.903619561Z"
+      "adjustedBidUsd": "535.00000000",
+      "adjustedAskUsd": "567.00000000",
+      "adjustedMidUsd": "551.00000000",
+      "generatedAt": "2026-09-05T00:03:28.496886417Z"
     },
     "0x7066a64c24e4206cd62e83bf198c1e7eb361f51e": {
-      "rawBidUsd": "28.39",
-      "rawAskUsd": "28.5",
+      "rawBidUsd": "26.2",
+      "rawAskUsd": "29.9",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "28.39000000",
-      "adjustedAskUsd": "28.50000000",
-      "adjustedMidUsd": "28.44500000",
-      "generatedAt": "2026-09-04T21:51:17.132561418Z"
+      "adjustedBidUsd": "26.20000000",
+      "adjustedAskUsd": "29.90000000",
+      "adjustedMidUsd": "28.05000000",
+      "generatedAt": "2026-09-05T00:03:24.147539Z"
     },
     "0x8cf07c5a878945185d327aaa6e33faa95f95e7bf": {
-      "rawBidUsd": "30.63",
-      "rawAskUsd": "30.7",
+      "rawBidUsd": "30.67",
+      "rawAskUsd": "31.4",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "30.63000000",
-      "adjustedAskUsd": "30.70000000",
-      "adjustedMidUsd": "30.66500000",
-      "generatedAt": "2026-09-04T21:51:14.081148576Z"
+      "adjustedBidUsd": "30.67000000",
+      "adjustedAskUsd": "31.40000000",
+      "adjustedMidUsd": "31.03500000",
+      "generatedAt": "2026-09-05T00:03:39.581778011Z"
     },
     "0xb1cc0ec7db69cf43539119814df40071b9d61793": {
-      "rawBidUsd": "64.39",
-      "rawAskUsd": "64.6",
+      "rawBidUsd": "54.6",
+      "rawAskUsd": "65",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "64.39000000",
-      "adjustedAskUsd": "64.60000000",
-      "adjustedMidUsd": "64.49500000",
-      "generatedAt": "2026-09-04T21:51:12.799617074Z"
+      "adjustedBidUsd": "54.60000000",
+      "adjustedAskUsd": "65.00000000",
+      "adjustedMidUsd": "59.80000000",
+      "generatedAt": "2026-09-05T00:03:30.293620302Z"
     },
     "0xacef2e09adb47ad6abebad9ff06689e60615c2b6": {
-      "rawBidUsd": "49.64",
+      "rawBidUsd": "45.39",
       "rawAskUsd": "54.27",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "49.64000000",
+      "adjustedBidUsd": "45.39000000",
       "adjustedAskUsd": "54.27000000",
-      "adjustedMidUsd": "51.95500000",
-      "generatedAt": "2026-09-04T21:51:16.043080071Z"
+      "adjustedMidUsd": "49.83000000",
+      "generatedAt": "2026-09-05T00:03:33.738073004Z"
     },
     "0x12e3c047bf9aecaf9ddc98c05c31bfd1dd043993": {
-      "rawBidUsd": "19.11",
-      "rawAskUsd": "19.64",
+      "rawBidUsd": "19.06",
+      "rawAskUsd": "19.49",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "19.11000000",
-      "adjustedAskUsd": "19.64000000",
-      "adjustedMidUsd": "19.37500000",
-      "generatedAt": "2026-09-04T21:51:17.060756940Z"
+      "adjustedBidUsd": "19.06000000",
+      "adjustedAskUsd": "19.49000000",
+      "adjustedMidUsd": "19.27500000",
+      "generatedAt": "2026-09-05T00:03:41.084170926Z"
     },
     "0x8005d266423c7ea827372c9c864491e5786600ea": {
-      "rawBidUsd": "1145",
-      "rawAskUsd": "1148.4",
+      "rawBidUsd": "1110",
+      "rawAskUsd": "1181",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "1145.00000000",
-      "adjustedAskUsd": "1148.40000000",
-      "adjustedMidUsd": "1146.70000000",
-      "generatedAt": "2026-09-04T21:51:24.423911010Z"
+      "adjustedBidUsd": "1110.00000000",
+      "adjustedAskUsd": "1181.00000000",
+      "adjustedMidUsd": "1145.50000000",
+      "generatedAt": "2026-09-05T00:03:38.644530374Z"
     },
     "0x7f0abef0c07280f82c6a08ead09ded6bae2c13fc": {
-      "rawBidUsd": "187.7",
-      "rawAskUsd": "188.8",
+      "rawBidUsd": "184.3",
+      "rawAskUsd": "189.26",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "187.70000000",
-      "adjustedAskUsd": "188.80000000",
-      "adjustedMidUsd": "188.25000000",
-      "generatedAt": "2026-09-04T21:51:23.829850696Z"
+      "adjustedBidUsd": "184.30000000",
+      "adjustedAskUsd": "189.26000000",
+      "adjustedMidUsd": "186.78000000",
+      "generatedAt": "2026-09-05T00:03:27.511956481Z"
     },
     "0x40e7a279850e443f582059ae5dc1c3b6563e6395": {
-      "rawBidUsd": "36.35",
-      "rawAskUsd": "36.67",
+      "rawBidUsd": "36.4",
+      "rawAskUsd": "38",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "36.35000000",
-      "adjustedAskUsd": "36.67000000",
-      "adjustedMidUsd": "36.51000000",
-      "generatedAt": "2026-09-04T21:51:25.522174967Z"
+      "adjustedBidUsd": "36.40000000",
+      "adjustedAskUsd": "38.00000000",
+      "adjustedMidUsd": "37.20000000",
+      "generatedAt": "2026-09-05T00:03:38.152640459Z"
     },
     "0x3b14c39e89d60d627b42a1a4ca45b5bb45fc12e2": {
-      "rawBidUsd": "64.45",
-      "rawAskUsd": "64.48",
+      "rawBidUsd": "63.2",
+      "rawAskUsd": "64.5",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "64.45000000",
-      "adjustedAskUsd": "64.48000000",
-      "adjustedMidUsd": "64.46500000",
-      "generatedAt": "2026-09-04T21:51:25.668627089Z"
+      "adjustedBidUsd": "63.20000000",
+      "adjustedAskUsd": "64.50000000",
+      "adjustedMidUsd": "63.85000000",
+      "generatedAt": "2026-09-05T00:03:37.364991116Z"
     },
     "0x75742c18bc1f1c5c5f448f4c9d9c6f66dafaaa38": {
-      "rawBidUsd": "518",
-      "rawAskUsd": "519.25",
+      "rawBidUsd": "517.5",
+      "rawAskUsd": "522.77",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "518.00000000",
-      "adjustedAskUsd": "519.25000000",
-      "adjustedMidUsd": "518.62500000",
-      "generatedAt": "2026-09-04T21:51:26.960807397Z"
+      "adjustedBidUsd": "517.50000000",
+      "adjustedAskUsd": "522.77000000",
+      "adjustedMidUsd": "520.13500000",
+      "generatedAt": "2026-09-05T00:03:43.583693428Z"
     },
     "0xa5d4968421ba94814be3b136b15cf422101ac1a3": {
-      "rawBidUsd": "14.8",
-      "rawAskUsd": "14.9",
+      "rawBidUsd": "14.65",
+      "rawAskUsd": "14.85",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "14.80000000",
-      "adjustedAskUsd": "14.90000000",
-      "adjustedMidUsd": "14.85000000",
-      "generatedAt": "2026-09-04T21:51:15.714665586Z"
+      "adjustedBidUsd": "14.65000000",
+      "adjustedAskUsd": "14.85000000",
+      "adjustedMidUsd": "14.75000000",
+      "generatedAt": "2026-09-05T00:03:34.393525048Z"
     },
     "0x57b0030166db0c31690d1a5aa167e2e26e2c29a4": {
-      "rawBidUsd": "304.98",
-      "rawAskUsd": "307.8",
+      "rawBidUsd": "307",
+      "rawAskUsd": "313.98",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "304.98000000",
-      "adjustedAskUsd": "307.80000000",
-      "adjustedMidUsd": "306.39000000",
-      "generatedAt": "2026-09-04T21:51:16.691924877Z"
+      "adjustedBidUsd": "307.00000000",
+      "adjustedAskUsd": "313.98000000",
+      "adjustedMidUsd": "310.49000000",
+      "generatedAt": "2026-09-05T00:03:31.730286961Z"
     },
     "0xc6cbad1016b38b797610c25e1dc7d95988b1f362": {
-      "rawBidUsd": "194.66",
-      "rawAskUsd": "194.99",
+      "rawBidUsd": "193.56",
+      "rawAskUsd": "260",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "194.66000000",
-      "adjustedAskUsd": "194.99000000",
-      "adjustedMidUsd": "194.82500000",
-      "generatedAt": "2026-09-04T21:51:17.007168335Z"
+      "adjustedBidUsd": "193.56000000",
+      "adjustedAskUsd": "260.00000000",
+      "adjustedMidUsd": "226.78000000",
+      "generatedAt": "2026-09-05T00:03:37.337768747Z"
     },
     "0xa4f319104089fe321dc8093c6e707d4fe190a988": {
-      "rawBidUsd": "74.51",
-      "rawAskUsd": "74.79",
+      "rawBidUsd": "73.21",
+      "rawAskUsd": "74.69",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "74.51000000",
-      "adjustedAskUsd": "74.79000000",
-      "adjustedMidUsd": "74.65000000",
-      "generatedAt": "2026-09-04T21:51:24.198438736Z"
+      "adjustedBidUsd": "73.21000000",
+      "adjustedAskUsd": "74.69000000",
+      "adjustedMidUsd": "73.95000000",
+      "generatedAt": "2026-09-05T00:03:38.383981072Z"
     },
     "0xf53f66751b1eff985311b693531e3290f600c410": {
       "rawBidUsd": "144.36",
-      "rawAskUsd": "145.33",
+      "rawAskUsd": "145.09",
       "currentMultiplier": "1.000000000000000000",
       "adjustedBidUsd": "144.36000000",
-      "adjustedAskUsd": "145.33000000",
-      "adjustedMidUsd": "144.84500000",
-      "generatedAt": "2026-09-04T21:51:25.864590440Z"
+      "adjustedAskUsd": "145.09000000",
+      "adjustedMidUsd": "144.72500000",
+      "generatedAt": "2026-09-05T00:03:46.088972409Z"
     },
     "0x9e7abd3c9139d14e4c86dce0e455aab7a0c2fb3e": {
-      "rawBidUsd": "19.4",
-      "rawAskUsd": "19.6",
+      "rawBidUsd": "19",
+      "rawAskUsd": "40",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "19.40000000",
-      "adjustedAskUsd": "19.60000000",
-      "adjustedMidUsd": "19.50000000",
-      "generatedAt": "2026-09-04T21:51:30.114625143Z"
+      "adjustedBidUsd": "19.00000000",
+      "adjustedAskUsd": "40.00000000",
+      "adjustedMidUsd": "29.50000000",
+      "generatedAt": "2026-09-05T00:03:39.204322460Z"
     },
     "0x62fd0668e10d8b72339be2dcf7643001688ff13b": {
-      "rawBidUsd": "222.21",
-      "rawAskUsd": "222.5",
+      "rawBidUsd": "222.13",
+      "rawAskUsd": "222.4",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "222.21000000",
-      "adjustedAskUsd": "222.50000000",
-      "adjustedMidUsd": "222.35500000",
-      "generatedAt": "2026-09-04T21:51:30.310658832Z"
+      "adjustedBidUsd": "222.13000000",
+      "adjustedAskUsd": "222.40000000",
+      "adjustedMidUsd": "222.26500000",
+      "generatedAt": "2026-09-05T00:03:37.470235275Z"
     },
     "0x03dfbbe0ac4e7bcdafd08ed41a400326b77d8c80": {
-      "rawBidUsd": "274.75",
-      "rawAskUsd": "275.75",
+      "rawBidUsd": "256",
+      "rawAskUsd": "276.8",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "274.75000000",
-      "adjustedAskUsd": "275.75000000",
-      "adjustedMidUsd": "275.25000000",
-      "generatedAt": "2026-09-04T21:51:31.318268445Z"
+      "adjustedBidUsd": "256.00000000",
+      "adjustedAskUsd": "276.80000000",
+      "adjustedMidUsd": "266.40000000",
+      "generatedAt": "2026-09-05T00:03:37.892764967Z"
     },
     "0x6e3dfd9f7e1649baa14d25cac18c94d62db10a54": {
       "rawBidUsd": "6.73",
-      "rawAskUsd": "6.74",
+      "rawAskUsd": "6.78",
       "currentMultiplier": "1.000000000000000000",
       "adjustedBidUsd": "6.73000000",
-      "adjustedAskUsd": "6.74000000",
-      "adjustedMidUsd": "6.73500000",
-      "generatedAt": "2026-09-04T21:51:33.395849769Z"
+      "adjustedAskUsd": "6.78000000",
+      "adjustedMidUsd": "6.75500000",
+      "generatedAt": "2026-09-05T00:03:44.104234624Z"
     },
     "0x92fd66527192e3e61d4ddd13322aa222de86f9b5": {
-      "rawBidUsd": "100.46",
-      "rawAskUsd": "100.47",
+      "rawBidUsd": "100.42",
+      "rawAskUsd": "100.5",
       "currentMultiplier": "1.005101770003214918",
-      "adjustedBidUsd": "100.97252381",
-      "adjustedAskUsd": "100.98257483",
-      "adjustedMidUsd": "100.97754932",
-      "generatedAt": "2026-09-04T21:51:21.501170360Z"
+      "adjustedBidUsd": "100.93231974",
+      "adjustedAskUsd": "101.01272789",
+      "adjustedMidUsd": "100.97252382",
+      "generatedAt": "2026-09-05T00:03:48.591517103Z"
     },
     "0xea72ecca2d0f6bfa1394dbbcff85b52cd4233931": {
-      "rawBidUsd": "212.87",
-      "rawAskUsd": "213.31",
+      "rawBidUsd": "200",
+      "rawAskUsd": "228.88",
       "currentMultiplier": "4.000000000000000000",
-      "adjustedBidUsd": "851.48000000",
-      "adjustedAskUsd": "853.24000000",
-      "adjustedMidUsd": "852.36000000",
-      "generatedAt": "2026-09-04T21:51:21.565966983Z"
+      "adjustedBidUsd": "800.00000000",
+      "adjustedAskUsd": "915.52000000",
+      "adjustedMidUsd": "857.76000000",
+      "generatedAt": "2026-09-05T00:03:35.079730939Z"
     },
     "0xa249baf1063af884807c1e1400aef7784836917e": {
-      "rawBidUsd": "320",
-      "rawAskUsd": "321",
+      "rawBidUsd": "320.36",
+      "rawAskUsd": "320.75",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "320.00000000",
-      "adjustedAskUsd": "321.00000000",
-      "adjustedMidUsd": "320.50000000",
-      "generatedAt": "2026-09-04T21:51:21.843075589Z"
+      "adjustedBidUsd": "320.36000000",
+      "adjustedAskUsd": "320.75000000",
+      "adjustedMidUsd": "320.55500000",
+      "generatedAt": "2026-09-05T00:03:49.592505701Z"
     },
     "0x4e62068525ab11fe768e29dfd00ef909b9803016": {
-      "rawBidUsd": "100.29",
-      "rawAskUsd": "100.4",
+      "rawBidUsd": "100",
+      "rawAskUsd": "100.6",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "100.29000000",
-      "adjustedAskUsd": "100.40000000",
-      "adjustedMidUsd": "100.34500000",
-      "generatedAt": "2026-09-04T21:51:24.184543366Z"
+      "adjustedBidUsd": "100.00000000",
+      "adjustedAskUsd": "100.60000000",
+      "adjustedMidUsd": "100.30000000",
+      "generatedAt": "2026-09-05T00:03:44.529642548Z"
     },
     "0x0f17206447090e464c277571124dd2688e48aea9": {
-      "rawBidUsd": "168.37",
-      "rawAskUsd": "168.5",
+      "rawBidUsd": "165.71",
+      "rawAskUsd": "168.7",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "168.37000000",
-      "adjustedAskUsd": "168.50000000",
-      "adjustedMidUsd": "168.43500000",
-      "generatedAt": "2026-09-04T21:51:36.128024022Z"
+      "adjustedBidUsd": "165.71000000",
+      "adjustedAskUsd": "168.70000000",
+      "adjustedMidUsd": "167.20500000",
+      "generatedAt": "2026-09-05T00:03:44.891626861Z"
     },
     "0xf6589f11bc40b669e584073f428b05562f568733": {
-      "rawBidUsd": "5.47",
-      "rawAskUsd": "5.48",
+      "rawBidUsd": "5.46",
+      "rawAskUsd": "6",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "5.47000000",
-      "adjustedAskUsd": "5.48000000",
-      "adjustedMidUsd": "5.47500000",
-      "generatedAt": "2026-09-04T21:51:29.140675562Z"
+      "adjustedBidUsd": "5.46000000",
+      "adjustedAskUsd": "6.00000000",
+      "adjustedMidUsd": "5.73000000",
+      "generatedAt": "2026-09-05T00:03:42.637536479Z"
     },
     "0x756bc80af765c82da966a788858d65adf14f3793": {
-      "rawBidUsd": "8.88",
-      "rawAskUsd": "8.89",
+      "rawBidUsd": "8.63",
+      "rawAskUsd": "9.08",
       "currentMultiplier": "1.000000000000000000",
-      "adjustedBidUsd": "8.88000000",
-      "adjustedAskUsd": "8.89000000",
-      "adjustedMidUsd": "8.88500000",
-      "generatedAt": "2026-09-04T21:51:35.374088571Z"
+      "adjustedBidUsd": "8.63000000",
+      "adjustedAskUsd": "9.08000000",
+      "adjustedMidUsd": "8.85500000",
+      "generatedAt": "2026-09-05T00:03:38.003731747Z"
     }
   },
   "launches": [
